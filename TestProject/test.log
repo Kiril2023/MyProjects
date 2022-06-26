@@ -1,0 +1,15 @@
+2022-06-26 21:18:33.852 INFO: starting webdriver.chrome.driver
+2022-06-26 21:18:36.335 INFO:webdriver.chrome.driver started
+2022-06-26 21:18:36.339 INFO: Starting test of clickOnFirstPurchase on:https://digital.harel-group.co.il/travel-policy
+2022-06-26 21:18:53.158 SUCCES: URL after button click is as expected: https://digital.harel-group.co.il/travel-policy/wizard/destination
+2022-06-26 21:18:53.160 SUCCESS: travelPolicyPage.clickOnFirstPurchase() test finished successfully
+2022-06-26 21:18:53.161 INFO: Starting test of clickOnEurope on:https://digital.harel-group.co.il/travel-policy/wizard/destination
+2022-06-26 21:18:59.704 SUCCES: URL after button click is as expected: https://digital.harel-group.co.il/travel-policy/wizard/date
+2022-06-26 21:18:59.708 SUCCESS: destinationPage.clickOnEurope() test finished successfully
+2022-06-26 21:18:59.710 INFO: Starting test of chooseDates() on:https://digital.harel-group.co.il/travel-policy/wizard/date
+2022-06-26 21:19:01.165 INFO: getFutureDate:03072022 with delay of:7 days
+2022-06-26 21:19:01.552 INFO: getFutureDate:02082022 with delay of:37 days
+2022-06-26 21:19:06.863 INFO: Trip days:31
+2022-06-26 21:19:06.864 SUCCES: number of trip days is as expected: 31
+2022-06-26 21:19:07.125 SUCCES: URL after button click is as expected: https://digital.harel-group.co.il/travel-policy/wizard/travelers
+2022-06-26 21:19:07.127 SUCCESS: datePage.chooseDates() test finished successfully
