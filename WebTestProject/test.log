@@ -1,0 +1,17 @@
+2022-06-23 07:38:51.977 INFO: starting webdriver.chrome.driver
+2022-06-23 07:38:57.657 INFO:webdriver.chrome.driver started
+2022-06-23 07:38:57.661 INFO: Starting test of loginPage.loginTest to:https://practis.co.il/automation/
+2022-06-23 07:39:00.250 SUCCES: URL after login is as expected
+2022-06-23 07:39:00.251 SUCCESS: loginPage.loginTest() test finished successfully
+2022-06-23 07:39:00.251 INFO: Starting test of mainPage.do1Do2ButtonsTest
+2022-06-23 07:39:01.575 SUCCESS: Clicking on DO1! changed it to disabled and DO2! to enabled
+2022-06-23 07:39:01.627 SUCCESS: Clicking on DO2! changed it to disabled and DO1! to enabled
+2022-06-23 07:39:01.628 SUCCESS: mainPage.do1Do2ButtonsTest test finished successfully
+2022-06-23 07:39:01.628 INFO: Starting test of mainPage.fontSizeChangeTest
+2022-06-23 07:39:01.678 INFO: Default font size of paragraph element is:20px
+2022-06-23 07:39:01.721 SUCCESS: Font size increased to:23px
+2022-06-23 07:39:01.783 SUCCESS: Font size decreased to:17px
+2022-06-23 07:39:01.784 SUCCESS: mainPage.fontSizeChangeTest test finished successfully
+2022-06-23 07:39:01.785 INFO: Starting test of mainPage.backGroundColorChangeTest
+2022-06-23 07:39:01.955 SUCCESS: Frame background color was changed to:rgb(255, 127, 80)
+2022-06-23 07:39:01.956 SUCCESS: mainPage.backGroundColorChangeTest test finished successfully
